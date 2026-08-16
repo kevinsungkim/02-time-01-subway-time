@@ -1,4 +1,4 @@
-# subway_time TIME PART: 시간대 기준 만들기
+# subway_time | TIME PART: 시간대 기준 만들기
 
 ## 프로젝트 개요
 
